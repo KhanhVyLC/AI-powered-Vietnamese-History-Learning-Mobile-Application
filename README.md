@@ -1,3 +1,5 @@
+<img width="417" height="873" alt="image" src="https://github.com/user-attachments/assets/99cdbaa9-21d9-4f6a-a855-8ba90e1d5f4f" />
+
 ##  VIHIS – AI-powered Vietnamese History Learning Mobile Application
 
 VIHIS is an AI-powered mobile application designed to support Vietnamese history learning through personalized content, real-time interaction, and intelligent knowledge assistance.
