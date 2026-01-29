@@ -30,5 +30,4 @@ The project focuses on analyzing business requirements and translating them into
 - Improved learning experience with intelligent, context-aware AI assistance  
 
 ###  Project Report
- **Link Report and Demo:**  
-[View Project Report](https://drive.google.com/drive/folders/1nB5mzRKr_rc4fFe0jJGezRPvE8p1IvIF)
+ **Link Report and Demo:** [View Project Report](https://drive.google.com/drive/folders/1nB5mzRKr_rc4fFe0jJGezRPvE8p1IvIF)
