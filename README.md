@@ -21,9 +21,8 @@
   <img src="https://github.com/user-attachments/assets/f7af432d-a199-4f0e-b932-a016689bd61d" height="320" />
 </p>
 
-
-
-
+###  Project Report
+ **Link Report and Demo:** [View Project Report](https://drive.google.com/drive/folders/1nB5mzRKr_rc4fFe0jJGezRPvE8p1IvIF)
  
 ##  VIHIS – AI-powered Vietnamese History Learning Mobile Application
 
@@ -56,5 +55,4 @@ The project focuses on analyzing business requirements and translating them into
 - Increased user engagement through personalization and real-time interaction  
 - Improved learning experience with intelligent, context-aware AI assistance  
 
-###  Project Report
- **Link Report and Demo:** [View Project Report](https://drive.google.com/drive/folders/1nB5mzRKr_rc4fFe0jJGezRPvE8p1IvIF)
+
