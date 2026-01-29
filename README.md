@@ -1,6 +1,15 @@
-<img width="417" height="873" alt="image" src="https://github.com/user-attachments/assets/99cdbaa9-21d9-4f6a-a855-8ba90e1d5f4f" />
-<img width="396" height="858" alt="image" src="https://github.com/user-attachments/assets/f2a49dd4-1f0b-42cb-a9cf-ad3355ed3c0c" />
-<img width="558" height="1137" alt="image" src="https://github.com/user-attachments/assets/bcd74d07-6884-49e7-a153-f906df687e5c" />
+<!-- Row 1: two images -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/99cdbaa9-21d9-4f6a-a855-8ba90e1d5f4f" width="260" />
+  &nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f2a49dd4-1f0b-42cb-a9cf-ad3355ed3c0c" width="260" />
+</p>
+
+<!-- Row 2: one image -->
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bcd74d07-6884-49e7-a153-f906df687e5c" width="300" />
+</p>
+
 
  
 ##  VIHIS – AI-powered Vietnamese History Learning Mobile Application
