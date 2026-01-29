@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "61679014381",
+    "project_id": "vihis-45cc5",
+    "storage_bucket": "vihis-45cc5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61679014381:android:609d34d9eabb333b1bd7e4",
+        "android_client_info": {
+          "package_name": "com.example.pj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIsEBBS8mnDWXbdzzyHcOcX_a4Yd2WrlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
